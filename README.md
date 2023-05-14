@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wilson</h1>
-<h3 align="center">A passionate frontend developer from Ecuador</h3>
+<h3 align="center">A passionate fullstack developer from Ecuador</h3>
 
 <p align="left"> <a href="https://twitter.com/nanozbit" target="blank"><img src="https://img.shields.io/twitter/follow/nanozbit?logo=twitter&style=for-the-badge" alt="nanozbit" /></a> </p>
 
