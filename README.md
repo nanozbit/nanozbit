@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/nanozbit" target="blank"><img src="https://img.shields.io/twitter/follow/nanozbit?logo=twitter&style=for-the-badge" alt="nanozbit" /></a> </p>
 
-- 🌱 I’m currently learning **React, Angular etc**
+- 🌱 I’m currently learning **Python, Angular, Java etc**
 
 - 📫 How to reach me **nanozbit@gmail.com**
 
